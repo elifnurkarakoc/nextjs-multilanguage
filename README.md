@@ -8,6 +8,8 @@
 
 <hr>
 
+This is the example repository for building a multi-language app with NextJS.
+
 ### Built With
 
 - [NextJS](https://nextjs.org/)
