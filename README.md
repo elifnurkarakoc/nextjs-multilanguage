@@ -19,12 +19,6 @@
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -32,7 +26,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/elifnurkarakoc/nextjs-multilanguage.git
    ```
-2. Install NPM packages
+2. Install packages
    ```sh
    yarn
    ```
