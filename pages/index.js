@@ -10,7 +10,7 @@ export default function Home() {
   const t = locale === "en" ? en : tr;
 
   return (
-    <div className="bg-gradient-to-r font-mono from-sky-500 to-blue-500 items-center justify-center p-6 min-h-screen ">
+    <div className="bg-gradient-to-r font-mono from-blue-400 to-blue-400 items-center justify-center p-6 min-h-screen ">
       <div className=" flex flex-col justify-center text-white w-full  mx-auto max-w-3xl ">
         <div className="flex flex-row w-full space-x-8 justify-between">
           <Head>

@@ -18,7 +18,7 @@ const Select = () => {
       <select
         onChange={changeLanguage}
         defaultValue={locale}
-        className="flex rounded p-1 items-center py-3 bg-orange-400"
+        className="flex rounded p-1 items-center py-3 bg-green-400"
       >
         <option value={"en"}>English</option>
         <option value={"tr"}>Türkçe</option>
